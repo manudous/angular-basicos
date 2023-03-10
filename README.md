@@ -1,5 +1,23 @@
 # Bases
 
+## Create tags
+
+```bash
+git tag -a v0.1.0 -m "Fin sección"
+```
+
+Check tags
+
+```bash
+git tag
+```
+
+Upload tags
+
+```bash
+git push --tags
+```
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
 
 ## Development server
